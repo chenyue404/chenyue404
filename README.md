@@ -30,6 +30,7 @@ This is chenyue404, Android player, also doing development.
 | [FlyperlinkFilter](https://github.com/chenyue404/FlyperlinkFilter) | 拦截Flyper的三方跳转 |
 | [NoFullscreen](https://github.com/chenyue404/NoFullscreen) | 禁止app全屏 |
 | [ActivityLog](https://github.com/chenyue404/ActivityLog) | 记录Activity的跳转记录和详细参数 |
+| [MotoHook](https://github.com/chenyue404/MotoHook) | MOTO s30Pro的一些小功能修改 |
 
 | 开发库                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
