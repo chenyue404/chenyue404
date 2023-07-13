@@ -1,4 +1,5 @@
-### Hi there 👋 You're visitor number <img src="https://visitor-badge.glitch.me/badge?page_id=chenyue404.visitor-badge" />. Thanks for checking me out, even if you didn't mean to :)
+### Hi there 👋 
+This is chenyue404, Android player, also doing development.
 
 <!--
 **chenyue404/chenyue404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is chenyue404, Android player, also doing development.
 
 | 项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -38,5 +38,5 @@ This is chenyue404, Android player, also doing development.
 | [ThemeImageView](https://github.com/chenyue404/ThemeImageView) | imageview的简单着色 |
 
 ### Github State
-![chenyue404's github stats](https://github-readme-stats.vercel.app/api?username=chenyue404&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyue404)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyue404&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenyue404&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenyue404&theme=default) 
