@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 | [ShareText](https://github.com/chenyue404/ShareText) | 记录剪切板并通过浏览器和其他端同步 |
 | [SchemeLaunchPad](https://github.com/chenyue404/SchemeLaunchPad) | 运行Scheme url的launch pad。玩法之一：和kde connect配合给电脑发送操作指令 |
 | [PageTurner](https://github.com/chenyue404/PageTurner) | [SchemeLaunchPad](https://github.com/chenyue404/SchemeLaunchPad)的简化版 |
+| [ClipboardSyncThroughNtfy](https://github.com/chenyue404/ClipboardSyncThroughNtfy) | 通过ntfy自动同步剪贴板 |
 
 | Xposed项目                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -31,6 +32,8 @@ Here are some ideas to get you started:
 | [NoFullscreen](https://github.com/chenyue404/NoFullscreen) | 禁止app全屏 |
 | [ActivityLog](https://github.com/chenyue404/ActivityLog) | 记录Activity的跳转记录和详细参数 |
 | [MotoHook](https://github.com/chenyue404/MotoHook) | MOTO s30Pro的一些小功能修改 |
+| [ShowOldAppProperly](https://github.com/chenyue404/ShowOldAppProperly) | 让老应用按正常比例全屏显示 |
+| [LogAccessDialogBlockList](https://github.com/chenyue404/LogAccessDialogBlockList) | 拦截Android 13上的日志权限请求的弹窗 |
 
 | 开发库                                                         | 描述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
