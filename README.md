@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 | [AndroidLib](https://github.com/chenyue404/AndroidLib) | 自用的kotlin开发库 |
 | [ThemeImageView](https://github.com/chenyue404/ThemeImageView) | imageview的简单着色 |
 
+| 狗尾续貂（pr合入不积极，就自己fork之后乱搞了）                                                         | 描述                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [android-remote-debugger](https://github.com/chenyue404/android-remote-debugger) | Android辅助开发工具，在电脑网页上使用 |
+| [pandora](https://github.com/chenyue404/pandora) | Android辅助开发工具，在手机上使用 |
+
 ### Github State
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenyue404&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenyue404&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenyue404&theme=default) 
